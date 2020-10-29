@@ -5,7 +5,7 @@ ghpages.publish(
   'public',
   {
     branch: 'master',
-    repo: 'https://github.com/rolandhiller/rolandhiller.github.io.git',
+    repo: 'https://github.com/RolandHiller/gatsby-site',
   },
   () => {
     console.log('Deploy Complete!')
